@@ -1,0 +1,7 @@
+-- CREATE DATABASE query
+
+CREATE DATABASE IF NOT EXISTS smartSchool;
+
+-- USE DATABASE
+
+USE smartSchool;
